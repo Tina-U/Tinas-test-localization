@@ -1,11 +1,11 @@
 # C'est la premiere titre
 
-I am just typing random words because I cannot find the tool that I am looking for.
+Je ne fais que taper des mots au hasard parce que je ne trouve pas l'outil que je recherche.
 
 ## C'est la deuxieme titre
 
-Here as well, I am just typing random text
+Ici aussi, je ne fais que taper du texte au hasard
 
-## Another second heading
+## Un autre deuxième titre
 
-Seriously, I do not know what to type anymore.
+Sérieusement, je ne sais plus quoi taper.
