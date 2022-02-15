@@ -4,4 +4,4 @@ Heute ist ein guter Tag.
 
 ## Ich mag Herbst und Frühling
 
-Why? Because it is not too cold or hot.
+Wieso? Weil es nicht zu kalt oder zu heiß ist.
