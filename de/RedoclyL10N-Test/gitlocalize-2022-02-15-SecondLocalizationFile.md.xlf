@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file original="de/RedoclyL10N-Test/SecondLocalizationFile.md" source-language="en" target-language="de">
+   <body>
+    <trans-unit id="25484950">
+      <source xml:lang="en">Tinas second localization file</source>
+      <target xml:lang="de">Tinas zweite Lokalisierungsdatei</target>
+    </trans-unit>
+    <trans-unit id="25484952">
+      <source xml:lang="en">Today is a good day.</source>
+      <target xml:lang="de">Heute ist ein guter Tag.</target>
+    </trans-unit>
+    <trans-unit id="25484951">
+      <source xml:lang="en">I like fall and spring</source>
+      <target xml:lang="de">Ich mag Herbst und Frühling</target>
+    </trans-unit>
+    <trans-unit id="25484955">
+      <source xml:lang="en">Why? Because it is not too cold or hot.</source>
+      <target xml:lang="de">Wieso? Weil es nicht zu kalt oder zu heiß ist.</target>
+    </trans-unit>
+   </body>
+  </file>
+</xliff>
